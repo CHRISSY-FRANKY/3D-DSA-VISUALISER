@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/CHRISSY-FRANKY/3D-DSA-VISUALISER/issues"
   },
-  "homepage": "https://github.com/CHRISSY-FRANKY/3D-DSA-VISUALISER#readme"
+  "homepage": "https://github.com/CHRISSY-FRANKY/3D-DSA-VISUALISER#readme",
+  "dependencies": {
+    "three": "^0.174.0"
+  }
 }
