@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/CHRISSY-FRANKY/3D-DSA-VISUALISER#readme",
   "dependencies": {
+    "express": "^4.21.2",
     "three": "^0.174.0"
   }
 }
