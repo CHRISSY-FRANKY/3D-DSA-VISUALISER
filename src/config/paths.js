@@ -16,4 +16,4 @@ const paths = // central hub
     libs: path.join(srcDir, '../node_modules') // libraries directory
 };
 
-module.exports = paths;
+module.exports = paths; // export the paths
